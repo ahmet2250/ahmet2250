@@ -16,7 +16,7 @@
     </a>
     <br />
 ------------------------------------
-![3078326518_An_optimistic_and_vivid_deep_reinforcement_learning_related_image__concept_art__matte_painting__HQ__](https://user-images.githubusercontent.com/44137695/208713460-e884a912-381c-4afe-9215-9dcdbef2e92e.png)
+<img align="middle" alt = "Ahmet's Photo" src="https://user-images.githubusercontent.com/44137695/208716108-5ba89be0-8d3c-4d92-b69a-d6fb75ddb87e.png" />
 
 <!---
 ahmet2250/ahmet2250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
